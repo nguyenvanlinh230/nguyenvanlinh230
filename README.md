@@ -58,7 +58,7 @@
               <tr>
                 <th width="30%">Cân nặng</th>
                 <td width="2%">:</td>
-                <td>5555kg</td>
+                <td>55kg</td>
               </tr>
               <tr>
                 <th width="30%">Sở thích</th>
